@@ -1,0 +1,43 @@
+# Reproductible Research
+## Week 1 Quiz
+
+##Question 1
+* An investigator at another institution conducts a study addressing the same 
+question, collects her own data, analyzes it separately from me, and publishes
+her own findings.
+
+##Question 2  
+* The investigator makes the analytic data publicly available.  
+
+##Question 3
+* The study's analytic data and computer code for the data analysis are publicly
+available. When the code is run on the analytic data, the findings are identical
+to the published results.
+
+##Question 4  
+* The original study was opportunistic in its timing and it would be difficult 
+to find a similar context in which to repeat it.  
+OR  
+* The original study was very expensive and there is no money to repeat it in 
+a different setting.
+
+##Question 5  
+* New technologies are increasing the rate of data collection, creating datasets
+that are more complex and extremely high dimensional.
+
+##Question 6
+* It transforms the measured data into analytic data.
+
+##Question 7
+* Combine explanatory text and data analysis code in a single document.
+
+##Question 8
+* Transform the literate program into a human readable document.
+
+##Question 9
+* A programming language like R.  
+OR  
+* A documentation language like LaTeX.
+
+##Question 10
+* knitr allows for the use of markdown instead of LaTeX.
